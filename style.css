@@ -1,0 +1,173 @@
+.bussiness-dev{
+  background-color:rgb(30, 229, 146) ;
+  width: 500px;
+  padding: 90px 50px;
+  border-radius: 15px;
+  margin: 30px auto;
+}
+.bussines-heading{
+  font-size: 70px;
+  margin-bottom: 0;
+}
+.bussiness-para{
+  width: 100%;
+  font-size: 20px;
+  font-weight: bold;
+}
+.bussiness-btn{
+  background-color: white;
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 15px 40px;
+  border-radius: 40px;
+  margin-top: 20px;
+}
+.your-profile{
+  width: 500px;
+  border: 2px solid lightgray;
+  box-sizing: border-box;
+  margin: 30px auto;
+  border-radius: 10px;
+}
+.pro-head{
+  font-size: 36px;
+  font-weight: 100;
+  margin-bottom: 0;
+  padding: 5px 30px;
+}
+.pro-para{
+  font-size: 20px;
+  width: 400px;
+  color: rgb(100, 100, 100);
+  margin-bottom: 30px;
+  padding: 0 30px;
+}
+.profile1{
+  width: 90px;
+  height: 90px;
+  border-radius: 100%;
+  margin-left: 70px;
+  padding: 10px 0;
+}
+.profile2{
+  width: 90px;
+  height: 90px;
+  border-radius: 100%;
+  margin-left: 70px;
+  padding: 10px 0;
+}
+.seperate{
+  border-top: 2px solid lightgray;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.link{
+  padding: 20px 30px;
+}
+.profile-link{
+  text-decoration: none;
+  font-size: 25px;
+  color: #2c00ee;
+}
+.google-photo{
+  width: 500px;
+  border: 2px solid lightgrey;
+  border-radius: 10px;
+  margin: 30px auto;
+}
+.photo{
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.content{
+  padding: 30px 40px;
+}
+.subscribe-para{
+  margin-top: 0;
+  font-size: 20px;
+  color: rgb(100, 100, 100);
+}
+.google-head{
+  font-size: 35px;
+  font-weight: 200;
+  margin-top: 0;
+}
+.google-para{
+  font-size: 22px;
+  color: rgb(100, 100, 100);
+  line-height: 30px;
+  margin-bottom: 40px;
+}
+.google-button{
+  padding: 10px 30px;
+  font-size: 20px;
+  border-radius: 8px;
+  background-color: white;
+  border: 2px solid lightgrey;
+  color: #2c00ee;
+}
+.flodesk-div{
+  margin: 30px auto;
+  width: 500px;
+  text-align: center;
+  margin-top: 100px;
+} 
+.brand{
+  font-size: 60px;
+  font-family: "Ultra", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.welcome{
+  font-size: 25px;
+  margin-top: 0;
+}
+.input{
+  width: 100%;
+  box-sizing: border-box;
+  height: 70px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  border: 2px solid lightgrey;
+  border-radius: 20px;
+  padding-left: 30px;
+}
+.loginbtn{
+  padding: 20px 50px;
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  border-radius: 40px;
+  border: none;
+  margin-bottom: 30px;
+  font-weight: 400;
+  margin-top: 10px;
+}
+.member{
+  font-size: 15px;
+  color: rgb(100, 100, 100);
+  margin-bottom: 6px;
+}
+.links{
+  font-size: 15px;
+  color: rgb(50, 50, 50);
+}
+.links1{
+  font-size: 15px;
+  color: rgb(50, 50, 50);
+  margin-top: 0;
+}
+.terms{
+  text-align: center;
+  width: 250px;
+  margin: auto;
+  margin-top: 30px;
+  font-size: 13px;
+  color: rgb(100, 100, 100);
+  margin-bottom: 30px;
+}
+.terms-link{
+  color: rgb(100, 100, 100);
+}
